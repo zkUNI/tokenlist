@@ -1,0 +1,2 @@
+# tokenlist
+zkSync tokenlist
